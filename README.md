@@ -1,5 +1,7 @@
 # Keerthana R. | Personal Portfolio
 
+https://keerthana1028.github.io/keerthana-portfolio-new/
+
 This repository contains my personal portfolio website, showcasing my technical skills, academic projects, internships, certifications, and professional interests.
 
 ## About
